@@ -1,0 +1,1 @@
+exports.ids=[8],exports.modules={148:function(t,e,r){"use strict";r.r(e);var n={name:"Team",data:()=>({})},c=r(2);var component=Object(c.a)(n,(function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"team"},[this._ssrNode("\nTeam\n\t")])}),[],!1,(function(t){}),"218112ff","42a7d01c");e.default=component.exports}};
